@@ -1,0 +1,85 @@
+img
+{
+width: 400px;
+height: 400px;
+}
+#pagina {
+   width: 40% ;
+   margin: 40px auto 40px auto;
+   font-family: 'Roboto', sans-serif;
+}
+.ing {
+margin-bottom: 10px;
+}
+.tip{
+   background-color: #def6ed;
+   padding: 5px;
+   margin: 10px 
+}
+
+.titel{
+   border-bottom: 1px solid black ;
+   padding-bottom: 20px;
+}
+
+
+body
+{
+background-color :whitesmoke
+}
+.button {
+    background-color: #000000;
+    border: none;
+    color :white;
+    padding : 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 12px; 
+    -webkit-transition-duration: 0.4s;
+    transition-duration:0.4s; 
+     cursor: pointer;
+
+    }
+.button1 {
+    background-color:white;
+    color:black;
+    border:2px solid #000000}
+
+ .button1:hover {
+    background-color :gray;
+    color:rgb(255, 255, 255);
+    border:2px solid #008CBA
+
+ }
+ .button2 {
+    background-color:white;
+    color:black;
+    border:2px solid #000000}
+
+ .button2:hover {
+    background-color :gray;
+    color:rgb(255, 255, 255);
+    border:2px solid #008CBA
+ }
+ .button3 {
+    background-color:white;
+    color:black;
+    border:2px solid #000000}
+
+ .button3:hover {
+    background-color :gray;
+    color:rgb(255, 255, 255);
+    border:2px solid #008CBA
+ }
+ .button4 {
+    background-color:white;
+    color:black;
+    border:2px solid #000000}
+
+ .button4:hover {
+    background-color :gray;
+    color:rgb(255, 255, 255);
+    border:2px solid #008CBA
+ }
